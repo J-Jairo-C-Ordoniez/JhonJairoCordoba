@@ -9,7 +9,7 @@
                 "id": 1,
                 "link": "frontend",
                 "title": "Frontend",
-                "poster": "../../public/desing.png",
+                "poster": "desing.png",
                 "description": "¿Qué hace que una aplicación o sitio web sea inolvidable? Una experiencia de usuario excepcional. Me apasiona resolver problemas y crear interfaces que no solo sean visualmente atractivas, sino también fáciles de usar y adaptables a cualquier dispositivo",
                 "tecnologis": [
                     {
@@ -87,7 +87,7 @@
                 "id": 3,
                 "link": "others",
                 "title": "Otros Detalles",
-                "poster": "../../public/responsive.png",
+                "poster": "responsive.png",
                 "description": "Responsividad, calidad y diseño",
                 "tecnologis": [
                     {
@@ -108,12 +108,12 @@
         "social": [
             {
                 "name": "Linkedin",
-                "icono": "../../public/linkedin.svg",
+                "icono": "linkedin.svg",
                 "link": "link"
             },
             {
                 "name": "GitHub",
-                "icono": "../../public/github.svg",
+                "icono": "github.svg",
                 "link": "link"
             }
         ]
