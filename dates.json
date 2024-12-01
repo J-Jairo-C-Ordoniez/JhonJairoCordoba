@@ -48,7 +48,7 @@
                 "id": 2,
                 "link": "backend",
                 "title": "Backend",
-                "poster": "../../public/calidad.png",
+                "poster": "calidad.png",
                 "description": "Mi rol es garantizar que la infraestructura técnica sea sólida y confiable. A demás con la integración de bases de datos garantizo el rendimiento y la implementación de medidas de seguridad de vanguardia para proteger los datos de los usuarios",
                 "tecnologis": [
                     {
