@@ -1,0 +1,204 @@
+{
+    "name": "Jhon Jairo Cordoba Ordoñez",
+    "nameUser": "J Jairo C Ordoñez",
+    "home": {
+        "description": "Desarrollador web minimalista apasionado por crear experiencias digitales únicas",
+        "CTA": "¡Trabajemos Juntos!",
+        "details": [
+            {
+                "id": 1,
+                "link": "frontend",
+                "title": "Frontend",
+                "poster": "../../public/desing.png",
+                "description": "¿Qué hace que una aplicación o sitio web sea inolvidable? Una experiencia de usuario excepcional. Me apasiona resolver problemas y crear interfaces que no solo sean visualmente atractivas, sino también fáciles de usar y adaptables a cualquier dispositivo",
+                "tecnologis": [
+                    {
+                        "icono": "01",
+                        "name": "Figma",
+                        "use": "Diseño de las interfaces de usuario",
+                        "nivel": "Intermedio"
+                    },
+                    {
+                        "icono": "02",
+                        "name": "HTML5",
+                        "use": "Estructura de las páginas",
+                        "nivel": "Avanzado"
+                    },
+                    {
+                        "icono": "03",
+                        "name": "CSS",
+                        "use": "Estilos visuales",
+                        "nivel": "Avanzado"
+                    },
+                    {
+                        "icono": "04",
+                        "name": "JavaScript",
+                        "use": "Dinamismo",
+                        "nivel": "Avanzado"
+                    },
+                    {
+                        "icono": "05",
+                        "name": "React",
+                        "use": "Framework JavaScript para crear interfaces de usuario",
+                        "nivel": "Básico"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "link": "backend",
+                "title": "Backend",
+                "poster": "../../public/calidad.png",
+                "description": "Mi rol es garantizar que la infraestructura técnica sea sólida y confiable. A demás con la integración de bases de datos garantizo el rendimiento y la implementación de medidas de seguridad de vanguardia para proteger los datos de los usuarios",
+                "tecnologis": [
+                    {
+                        "icono": "01",
+                        "name": "NodeJS",
+                        "use": "Entorno de ejecución de JavaScript para el lado del servidor",
+                        "nivel": "Intermedio"
+                    },
+                    {
+                        "icono": "02",
+                        "name": "ExpressJS",
+                        "use": "Framework para Node.js para crear aplicaciones web",
+                        "nivel": "Intermedio"
+                    },
+                    {
+                        "icono": "03",
+                        "name": "SQL",
+                        "use": "Lenguaje de consulta estructurado para bases de datos relacionales.",
+                        "nivel": "Intermedio"
+                    },
+                    {
+                        "icono": "04",
+                        "name": "MySQL",
+                        "use": "Sistema gestos de bases de datos relacionales simple y robusto",
+                        "nivel": "Intermedio"
+                    },
+                    {
+                        "icono": "05",
+                        "name": "Redis",
+                        "use": "Sistema gestos de bases de datos no relacionales simple y robusto",
+                        "nivel": "Básico"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "link": "others",
+                "title": "Otros Detalles",
+                "poster": "../../public/responsive.png",
+                "description": "Responsividad, calidad y diseño",
+                "tecnologis": [
+                    {
+                        "icono": "01",
+                        "name": "Bootstrap",
+                        "use": "Framework para crear diseños de forma sencilla",
+                        "nivel": "Intermedio"
+                    }
+                ]
+            }
+        ]
+    },
+    "abaut": {
+        "description": "Soy un desarrollador web apasionado por crear experiencias digitales únicas. Mi amor por la música y mi admiración por Avicii fueron los catalizadores que me impulsaron a aprender a programar. A través de mis proyectos, busco combinar mi pasión por la tecnología con mi deseo de crear algo significativo. Mi objetivo es utilizar mis habilidades para desarrollar soluciones innovadoras que solucionen problemas reales.",
+        "frontend": "Me apasiona el desarrollo Front-End, donde puedo crear experiencias de usuario únicas y expresar mi creatividad para lograr acabados innovadores. Colaboro con herramientas como Figma, que ofrece una amplia gama de recursos para diseñar interfaces que convencen y venden. Luego, utilizo tecnologías como HTML, CSS, JavaScript y React para plasmar mis diseños en la web, priorizando la adaptabilidad, accesibilidad, comodidad y calidad en cada proyecto",
+        "backend": "Además, otra área que me fascina es el análisis de datos. Me encanta controlar, organizar y analizar datos, y creo que se complementa muy bien con el desarrollo web. De esta manera, puedo crear bases de datos bien estructuradas y escalables, y organizar las entidades de forma correcta para evitar problemas de rendimiento y optimización. Estoy aprendiendo sobre esto junto con el desarrollo backend, que es un área fundamental para crear aplicaciones completas y funcionales.",
+
+        "social": [
+            {
+                "name": "Linkedin",
+                "icono": "../../public/linkedin.svg",
+                "link": "link"
+            },
+            {
+                "name": "GitHub",
+                "icono": "../../public/github.svg",
+                "link": "link"
+            }
+        ]
+    },
+    "skills": [
+        {
+            "name": "Comunicación clara y concisa",
+            "descript": "Explico conceptos técnicos a personas no técnicas de manera sencilla y clara"
+        },
+        {
+            "name": "Trabajo en equipo",
+            "descript": "Me gusta colaborar con otros desarrolladores para alcanzar objetivos comunes"
+        },
+        {
+            "name": "Adaptabilidad",
+            "descript": "Me ajusto a los cambios rápidamente y escucho de forma activa"
+        },
+        {
+            "name": "Pensamiento crítico",
+            "descript": "Puedo analizar problemas complejos y encontrar soluciones innovadoras"
+        },
+        {
+            "name": "Pasión por la tecnología",
+            "descript": "Me mantengo actualizado sobre las últimas tendencias y tecnologías"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Bergling",
+            "description": "App web de música, inspirada en AVICII",
+            "link": "link",
+            "poster": "photo"
+        },
+        {
+            "id": 2,
+            "title": "Icomerce",
+            "description": "Tienda en línea de una marca de ropa",
+            "link": "link",
+            "poster": "photo"
+        },
+        {
+            "id": 3,
+            "title": "MirchaGram",
+            "description": "Red social web de fotos y reels",
+            "link": "link",
+            "poster": "photo"
+        }
+    ],
+    "desing": {
+        "title": "Mi proceso de desarrollo",
+        "description": "Mi proceso de desarrollo web se basa en una metodología ágil y centrada en el trabajo en conjunto con el cliente. Cada proyecto comienza con una fase de planificación detallada, donde defino los objetivos, el alcance y los requisitos del proyecto para garantizar que el producto final cumpla con los estándares de calidad",
+        "steps": [
+            {
+                "title": "Planificación",
+                "description": "Recopilación de requisitos, definición de objetivos, creación de un plan de proyecto"
+            },
+            {
+                "title": "Arquitectura",
+                "description": "Definir el modelo que se usara para el proyecto: MVC o APIRest"
+            },
+            {
+                "title": "Modelodo de datos",
+                "description": "Definición del tipo de BDs que se usara para el proyecto: Relacional o no relacional"
+            },
+            {
+                "title": "Desarrollo Backend",
+                "description": "Diseño de la arquitectura, desarrollo de la API, integración de bases de datos"
+            },
+            {
+                "title": "Diseño",
+                "description": "Creación del diseño de la interfaz de usuario"
+            },
+            {
+                "title": "Desarrollo Frontend",
+                "description": "Creación de la interfaz de usuario, implementación de la lógica del cliente"
+            },
+            {
+                "title": "Pruebas",
+                "description": "Pruebas unitarias, pruebas de integración, pruebas de usuario"
+            },
+            {
+                "title": "Implementación",
+                "description": "Despliegue del proyecto en producción"
+            }
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img"
+    class="iconify iconify--logos" width="31.88" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 257">
+    <defs>
+        <linearGradient id="IconifyId1813088fe1fbc01fb466" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%">
+            <stop offset="50%" stop-color="#500998"></stop>
+            <stop offset="100%" stop-color="#090909"></stop>
+        </linearGradient>
+    </defs>
+    <rect width="180" x="30" y="40" height="180" rx="40" ry="40" stroke-linejoin="round" fill="url(#IconifyId1813088fe1fbc01fb466)" transform="rotate(45, 150, 150)"  stroke="blueviolet" stroke-width="6"/>
+</svg>
