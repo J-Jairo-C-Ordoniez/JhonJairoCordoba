@@ -24,7 +24,7 @@
     "home": {
         "name": "Jhon Jairo Cordoba Ordoñez",
         "nameUser": "J Jairo C Ordoñez",
-        "photo": "/img/me.jpg",
+        "photo": "img/me.jpg",
         "CTA": {
             "text": "¡Conoce mi trabajo!",
             "link": "#projects"
