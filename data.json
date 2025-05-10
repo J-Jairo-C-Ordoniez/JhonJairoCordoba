@@ -1,0 +1,204 @@
+{
+    "menu": [
+        {
+            "link": "#home",
+            "text": "INICIO"
+        },
+        {
+            "link": "#projects",
+            "text": "PROYECTOS"
+        },
+        {
+            "link": "#abaut",
+            "text": "SOBRE MÍ"
+        },
+        {
+            "link": "#services",
+            "text": "SERVICIOS"
+        },
+        {
+            "link": "#skills",
+            "text": "HABILIDADES"
+        }
+    ],
+    "home": {
+        "name": "Jhon Jairo Cordoba Ordoñez",
+        "nameUser": "J Jairo C Ordoñez",
+        "photo": "me.jpg",
+        "CTA": {
+            "text": "¡Conoce mi trabajo!",
+            "link": "#projects"
+        }
+    },
+    "projects": [
+        {
+            "id": 1,
+            "title": "Web / Portafolio",
+            "github": "https://github.com/J-Jairo-C-Ordoniez/JJairo_COrdoniez/",
+            "link": "https://jhon-jairo-cordoba.vercel.app/",
+            "poster": "pPortafolio.png",
+            "description": "Mi portafolio es un Sitio Estatico (SSG) desarrollado para presentar mis habilidades y experiencia en desarrollo web y diseño UI. Construido con un enfoque minimalista se destaca por su usabilidad y claridad.",
+            "type": "web",
+            "tecnologis": [
+                "#HTML",
+                "#CSS",
+                "#JavaScript",
+                "#React"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Diseño UI / Portafolio",
+            "link": "https://www.figma.com/design/zUzWIJpnJA0Wm2ovXpOszN/Untitled?node-id=0-1&m=dev&t=pnI8ALOcn3LADw8B-1",
+            "poster": "pDesingPorfolio.png",
+            "description": "Diseño de portafolio en FIGMA, diseñado para las responsividad (Adaptable para moviles, tabletas y desktops), involucrando un diseño minimalista sin dejar de lado la integración de colores dinamicos y vivos.",
+            "type": "desing",
+            "tecnologis": [
+                "#Figma"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Web / Cafetería",
+            "github": "https://jhon-jairo-cordoba.vercel.app/",
+            "link": "https://jhon-jairo-cordoba.vercel.app/",
+            "poster": "pCoffe.jpg",
+            "description": "Sistema completo diseñado para la administración de una cafetería, cuenta con una APIRest que sirve los datos necesarios para la administración del negocio. Fue diseñado para que sea escalable e intuitivo.",
+            "type": "web",
+            "tecnologis": [
+                "#HTML",
+                "#CSS",
+                "#JavaScript",
+                "#React",
+                "#Node.JS",
+                "#Express.JS",
+                "#MySQL"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Diseño UI / Cafetería",
+            "link": "https://www.figma.com/design/4NKN4e5BO0DbGYmSl65ldN/Untitled?m=auto&t=qiZMtjbrbXZmbFV4-6",
+            "poster": "pDesingCoffe.jpg",
+            "description": "Diseñado para la opinion de los clientes de la cafetría, cuenta con responsividad (Adaptable para moviles, tabletas y desktops), involucrando un diseño minimalista claro e interactivo para los clientes.",
+            "type": "desing",
+            "tecnologis": [
+                "#Figma"
+            ]
+        }
+    ],
+    "abaut": {
+        "description": {
+            "photo": "me.jpg",
+            "text": "Soy un desarrollador web apasionado por crear experiencias digitales únicas que se caracteriza por el aprendisaje autonomo. A través de mis proyectos, busco combinar mi pasión por la tecnología con mi deseo de crear algo significativo. Mi objetivo es utilizar mis habilidades para desarrollar soluciones innovadoras que solucionen problemas reales.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "Linkedin",
+                    "icon": "linkedin.png",
+                    "link": "https://www.linkedin.com/in/jhon-jairo-cordoba-ordoñez-66872133b"
+                },
+                {
+                    "id": 2,
+                    "name": "GitHub",
+                    "icon": "github.png",
+                    "link": "https://github.com/J-Jairo-C-Ordoniez"
+                }
+            ]
+        },
+        "skillSoft": [
+            {
+                "id": 1,
+                "name": "Comunicación clara y concisa",
+                "description": "Explico conceptos técnicos a personas no técnicas de manera sencilla y clara"
+            },
+            {
+                "id": 2,
+                "name": "Trabajo en equipo",
+                "description": "Me gusta colaborar con otros desarrolladores para alcanzar objetivos comunes"
+            },
+            {
+                "id": 3,
+                "name": "Adaptabilidad",
+                "description": "Me ajusto a los cambios rápidamente y escucho de forma activa"
+            },
+            {
+                "id": 4,
+                "name": "Pensamiento crítico",
+                "description": "Puedo analizar problemas complejos y encontrar soluciones innovadoras"
+            },
+            {
+                "id": 5,
+                "name": "Pasión por la tecnología",
+                "description": "Me mantengo actualizado sobre las últimas tendencias y tecnologías"
+            }
+        ]
+    },
+    "services": [
+        {
+            "id": "01",
+            "title": "Programación Web",
+            "description": "Desarrollo de aplicaciones web, sitios web y paginas web. Me enfoco en crear soluciones escalables, seguras y limpias."
+        },
+        {
+            "id": "02",
+            "title": "Desarrollo de Sistemas Complejos",
+            "description": "Diseño y desarrollo de sistemas complejos como: sistemas de ventas,  sistemas de gestión de invenatrios e ecommerce."
+        },
+        {
+            "id": "03",
+            "title": "Mantenimiento web",
+            "description": "Mantenimiento y actualización de sistemas existentes para asegurar su funcionamiento óptimo y seguridad. Incluyendo corrección de errores y mejoras en el rendimiento."
+        },
+        {
+            "id": "04",
+            "title": "Diseño UI/Web",
+            "description": "Mi enfoque en UI asegura la creación de interfaces de usuario con una experiencia de usuario unica y diseños limpios y minimalistas."
+        }
+    ],
+    "skills": [
+        {
+            "id": 1,
+            "title": "Frontend",
+            "poster": "frontend.png",
+            "description": "Desarrollo de interfaces de usuario atractivas, responsivas, intuitivas y funcionales utilizando HTML para el estructura, CSS para los estilos de la estructura, Bootstrap un framework para crear estilos de forma sencilla, JavaScript para el dinamismo del contenido y React como Framework para la creación de interfaces de usuario en base a componenetes.",
+            "tecnologis": [
+                "#HTML",
+                "#CSS",
+                "#Bootstrap",
+                "#JavaScript",
+                "#React"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Backend",
+            "poster": "backend.png",
+            "description": "Desarrollo de aplicaciones web escalables y seguras utilizando a NodeJS como entorno de JavaScript para el desarrollo del lado del servidor, Express.js como framework para NodeJS para el desarrollo web desde el lado del servidor. También, incluyendo la manipulación de datos con los Sistemas Gestores de Bases de Datos (SGBD), como MySQL para Bases de Datos de tipo Relacional que junto a un ORM como MySQL2 se logra la conexión de la Base de Datos para su manipulación desde el Backend, de igual forma contamos con Redis para trabajar con Bases de Datos de tipo No Relacional",
+            "tecnologis": [
+                "#Node.JS",
+                "#Express.JS",
+                "#MySQL",
+                "#Redis"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Análisis de Datos",
+            "poster": "data.png",
+            "description": "Análisis y visualización de datos para tomar decisiones informadas. Utilizo herramientas como excel para proporcionar opiniones valiosas y mejorar el reendimiento del negocio",
+            "tecnologis": [
+                "#SQLServer"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Diseño UI",
+            "poster": "desing.png",
+            "description": "Creación de interfaces de usuario atractivas, responsivas y funcionales para sitios web y aplicaciones. Con Figma como aplicación de diseño UI tengo la posibilidad de usar sus herramientas para asegurar un buen diseño.",
+            "tecnologis": [
+                "#Figma"
+            ]
+        }
+    ]
+}
